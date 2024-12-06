@@ -38,7 +38,7 @@ $value = $res->getValues();
   <title>Dashboard Ranking</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="  bg-gray-100 font-sans">
+<body class=" xl:hidden bg-gray-100 font-sans">
   <header class="bg-blue-600 text-white p-4 shadow-md">
     <h1 class="text-xl font-bold text-center">Dashboard Ranking</h1>
   </header>
